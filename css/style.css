@@ -1,13 +1,79 @@
-/*
-  font-family: 'Montserrat', sans-serif; 100it/800
-  font-family: 'Open Sans', sans-serif; 400/400it/700/700it
-*/
-
 html {
   scroll-behavior: smooth;
+  background-color: black;
+  padding: 20px 28px;
 }
-
+header.site-header{
+  background-image: url("../img/header-background.jpg");
+  border: solid white 4px;
+  color: white;
+  padding: 20px 28px;
+}
 body {
   max-width: 320px;
   margin: auto;
+  font-family: 'Open Sans', sans-serif;
 }
+div{
+  background-color: #2afca6;
+  border-width: 28px;
+  padding: 20px 28px;
+  margin: 20px 0px;
+  color: #0e6a49;
+}
+article{
+  background-color: white;
+  padding: 20px 28px;
+  margin-top: 20px;
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+  font-size: 26px;
+}
+em{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 100;
+  color: #31ffc5 ;
+}
+h2{
+  font-size: 15px;
+}
+img{
+   height: auto;
+   width: 100%;
+}
+figure{
+  margin: 0%;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  font-size: 13px;
+} 
+figcaption{
+  padding: 7px;
+}
+header p{
+  color: gray;
+  font-size: 13px;
+}
+.date{
+  font-weight: bold;
+}
+.author{
+  color: #2afca6;
+}
+.button{
+  background-color: #444444;
+  color: white;
+  font-size: 10px;
+  font-weight: bold;
+  padding: 7px 15px;
+  margin-top: 10px;
+}
+footer{
+  border: solid #2afda7 2px;
+  color: white;
+  margin-top: 20px;
+  font-size: 10px;
+  text-align: center;
+}
+
