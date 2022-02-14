@@ -5,22 +5,9 @@
 
 html {
   scroll-behavior: smooth;
-  background-color: black;
-  padding: 20px 28px;
 }
-header{
-  background-image: url("../img/header-background.jpg");
-  border: solid white 4px;
-  color: white;
-  padding: 20px 28px;
-}
+
 body {
   max-width: 320px;
   margin: auto;
-}
-div{
-  background-color: #2afca6;
-}
-article{
-  background-color: white;
 }
