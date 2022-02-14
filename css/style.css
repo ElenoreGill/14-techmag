@@ -14,7 +14,8 @@ body {
   margin: auto;
   font-family: 'Open Sans', sans-serif;
 }
-div{
+div,
+ .article{
   background-color: #2afca6;
   border-width: 28px;
   padding: 20px 28px;
