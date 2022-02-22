@@ -3,15 +3,12 @@ html {
   background-color: black;
   padding: 20px 28px;
 }
-main{
-  margin: 15px 20px;
-}
 header.site-header{
   background-image: url("../img/header-background.jpg");
   border: solid white 4px;
   color: white;
   padding: 55px 29px 50px;
-  margin: 15px 20px;
+  
 }
 body {
   max-width: 320px;
@@ -22,9 +19,10 @@ body {
 div {
   background-color: #2afca6;
   border-width: 28px;
-  padding: 20px 28px;
+  padding: 30px 29px 50px;
   margin: 20px 0px;
   color: #0e6a49;
+  font-size: 16px;
 }
 article{
   background-color: white;
@@ -33,7 +31,6 @@ article{
 }
 h1{
   font-family: 'Montserrat', sans-serif;
-  font-size: 17px;
 }
 em{
   font-family: 'Montserrat', sans-serif;
