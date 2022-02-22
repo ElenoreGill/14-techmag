@@ -13,6 +13,7 @@ body {
   max-width: 320px;
   margin: auto;
   font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
 }
 div {
   background-color: #2afca6;
@@ -28,8 +29,7 @@ article{
 }
 h1{
   font-family: 'Montserrat', sans-serif;
-  font-weight: 800;
-  font-size: 26px;
+  font-size: 17px;
 }
 em{
   font-family: 'Montserrat', sans-serif;
@@ -37,7 +37,8 @@ em{
   color: #31ffc5 ;
 }
 h2{
-  font-size: 15px;
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
 }
 img{
    height: auto;
@@ -64,8 +65,8 @@ header p{
 .button{
   background-color: #444444;
   color: white;
-  font-size: 10px;
-  font-weight: bold;
+  font-size: 13px;
+  font-family: 'Montserrat', sans-serif;
   padding: 7px 15px;
   margin-top: 10px;
 }
